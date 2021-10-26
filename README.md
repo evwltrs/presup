@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@evancodes](https://twitter.com/evancodes) - ev@1nf.me@ev@1nf.me_client.com
+Your Name - [@evancodes](https://twitter.com/evancodes) - ev@1nf.me
 
 Project Link: [https://github.com/evwltrs/presup](https://github.com/evwltrs/presup)
 
