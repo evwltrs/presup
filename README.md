@@ -35,6 +35,9 @@
     api to embed your discord presence into your site
     <br />
     <br />
+    <i><strong><a href="https://1nf.me">used on my personal site (only visible when I am online)</a><strong></i>
+    <br />
+    <br />
     <a href="https://github.com/evwltrs/presup/issues">Report Bug</a>
     ·
     <a href="https://github.com/evwltrs/presup/issues">Request Feature</a>
