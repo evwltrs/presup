@@ -133,6 +133,8 @@ npm run build
 npm run start
 ```
 
+3. Navigate to `hostname:port/`. Data is returned in JSON format.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
