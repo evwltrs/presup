@@ -90,6 +90,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 
 - npm
+
   ```sh
   npm install npm@latest -g
   ```
@@ -97,14 +98,19 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/evwltrs/presup.git
    ```
+
 2. Install NPM packages
+
    ```sh
    npm install
    ```
+
 3. Create your `src/config/config.ts`. Base it off the example template
+
    ```sh
    cp src/config/config.example.ts src/config/config.ts
    ```
