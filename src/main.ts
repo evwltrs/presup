@@ -1,10 +1,14 @@
 import { config } from './config/config'
 
 import { Client, Intents } from 'discord.js'
+
+var cors = require('cors')
 import express from 'express'
 
 const app = express()
 const port = config.port
+
+app.use(cors())
 
 const myIntents = new Intents()
 myIntents.add()
